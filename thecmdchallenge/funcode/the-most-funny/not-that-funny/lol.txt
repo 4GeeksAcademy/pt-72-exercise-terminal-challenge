@@ -1,7 +1,7 @@
 Yes, you were right... the command line is the most boring thing...
 .
 .
-.
+.m
 .
 .
 .
